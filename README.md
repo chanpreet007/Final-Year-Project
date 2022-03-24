@@ -33,7 +33,7 @@ It was trained on the training data + public test data pseudo labels. The image 
 It was trained on the training data + public test data pseudo labels. Image size used was the default for Yolo-v5x which is 640 x 640. Some images without Bounding Boxes were also included in training data( 20 %)
 # 4.11 RetinaNet:
 Thebackboneusedforretinanetwasresnext10164x4d.Imageusedwas(1333,800)
-# 5) Result
+# 5). Result
 Ensembling the study level and Image level model will result in the map (Mean Average Precision) of 0.617 where as the state of art in the domain is 0.635
 
 
